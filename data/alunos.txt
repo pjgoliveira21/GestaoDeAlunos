@@ -1,0 +1,42 @@
+906,Francisco Nascimento,graduação
+887,Gonçalo Vilas Lobo,graduação
+895,Guilherme Sampaio Costa,graduação
+473,Guilherme de Jesus Chiquinho,graduação
+110,Hemrique Jorge Menezes,mestrado
+900,Diogo Sócrates,graduação
+508,Diogo Amadeus Neto,graduação
+201,Helena Tancredo Neves,mestrado
+890,Fábio Silva,graduação
+894,Fernando Eduardo da Silva,graduação
+907,Filipe Agostinho Terceiro,graduação
+902,Hugo Pereira Sousa,graduação
+466,Ivanildes da Silva Costa,graduação
+280,José Barros Filipe,graduação
+905,Leandro Cavalcante Magalhães,graduação
+467,Lúcio Carmem Ferreira,graduação
+279,Márcio Alencar,graduação
+893,Marcus da Sousa Pereira,graduação
+901,Miguel Lucas dos Santos,graduação
+909,Miguel Sampaio Nascimento,graduação
+110,Rafael Tabaqui dos Santos,graduação
+886,Ricardo de Carvalho Menezes,graduação
+888,Rodrigo Cipriano Smith,graduação
+100,Carlos Henrique Sebastião,mestrado
+891,Paulo Ximendes,graduação
+898,Paulo de Tarso Cavalcante,graduação
+509,André Joaquim da Silva,graduação
+506,André Paixão,graduação
+716,Angelo Matias Junior,graduação
+897,Davi de Sousa Coelho,graduação
+896,Rita Pires Lins,graduação
+268,Tiago Veloso Costa,graduação
+903,Tiago Maria da Silva,graduação
+938,Rafael Vespertino dos Santos,graduação
+969,Rita Maria Guerreiro,graduação
+167,Graça Chica da Silva,mestrado
+484,Tiago Serafim Rodrigues,graduação
+100,Afonso Jordão dos Santos,graduação
+940,Diogo Maria Regino,graduação
+151,Eveline Pinto Correia,mestrado
+939,João Maria Constantino,graduação
+937,Nuno Gaspar Filgueira,graduação
